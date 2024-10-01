@@ -10,7 +10,7 @@ FastAPI + FastAPI
 
 ![Solution](./solution-fastapi+fastapi.png)
 
-# FastAPI
+## FastAPI
 
 To install dependencies:
 
